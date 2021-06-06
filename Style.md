@@ -1,4 +1,4 @@
-# Common Guidelines for writing Labs
+# Common Style Guidelines for Course Instructions
 
 ## Table of contents
 

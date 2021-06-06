@@ -2,8 +2,8 @@
 
 * [Getting Started as Contributor][1]
 * [Contributing][2]
-* [Common Lab Guidelines][3]
+* [Common Style Guidelines for Course Instructions][3]
 
-[1]: GettingStartedAsContributor.md
-[2]: ContibutingGuidelines.md
-[3]: CommonLabGuidelines.md
+[1]: GettingStarted.md
+[2]: Contibuting.md
+[3]: Style.md
