@@ -103,7 +103,7 @@ To create a new working branch, from the Command Palette, execute **Git: Create 
 
 When you have made changes you need to commit them to your local branch. Below we show how to commit and push using the command line, but it might be easier to commit (using git) from within Visual Studio Code. How to do that can be seen in this video.
 
-[![How to commit changes and push them in Visual Studio Code](https://www.youtube.com/watch?v=B8RSMBSzFuA/0.jpg)](https://www.youtube.com/watch?v=B8RSMBSzFuA)
+[![How to commit changes and push them in Visual Studio Code](https://img.youtube.com/vi/B8RSMBSzFuA/0.jpg)](https://www.youtube.com/watch?v=B8RSMBSzFuA)
 
 ## Make changes to an existing pull request of yours
 
